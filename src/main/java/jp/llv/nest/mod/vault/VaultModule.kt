@@ -1,7 +1,6 @@
 package jp.llv.nest.mod.vault
 
 import jp.llv.nest.NestAPIBukkit
-import jp.llv.nest.NestPlugin
 import jp.llv.nest.mod.kotlin.KotlinModule
 import jp.llv.nest.module.Module
 import net.milkbowl.vault.economy.Economy
